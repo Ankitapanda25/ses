@@ -1,0 +1,18 @@
+{
+  "name": "ses",
+  "version": "1.0.0",
+  "main": "sendEmail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ankita",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv-parse": "^5.5.6",
+    "csv-parser": "^3.0.0",
+    "nodemailer": "^6.9.13",
+    "nodemon": "^3.1.4",
+    "util": "^0.12.5"
+  }
+}
